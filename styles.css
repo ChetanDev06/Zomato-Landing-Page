@@ -507,8 +507,8 @@ align-items: center;
     font-size: 12px;
     border-top: 1px solid gray;
     padding-top: 1.5rem;
-    text-align: ;
 }
+
 @media only screen and (max-width: 900px){
     .navigation_container{
         grid-template-columns: repeat(3, 1fr);
