@@ -3,7 +3,7 @@
 Welcome to the **Zomato Homepage Clone**!  
 This project is a pixel-perfect, responsive recreation of the Zomato homepage, built with pure HTML and CSS. It captures the essence of Zomato's modern design, interactive sections, and mobile-friendly layout.
 
-![Zomato Homepage Screenshot](images/heroSectionBackground.png)
+![Zomato Homepage Screenshot](images/final_output.png)
 
 ## 🚀 Features
 
